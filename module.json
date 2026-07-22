@@ -1,0 +1,11 @@
+{
+    "name": "Reports",
+    "slug": "reports",
+    "version": "1.0.0",
+    "description": "Reports & Analytics",
+    "description_ar": "التقارير والتحليلات",
+    "is_active": true,
+    "provider": "Dev3bdulrahman\\Reports\\Providers\\ReportServiceProvider",
+    "dependencies": [],
+    "order": 13
+}
